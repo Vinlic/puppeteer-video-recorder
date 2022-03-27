@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "puppeteer-core": "^13.5.1"
+  },
+  "name": "puppeteer-video-recorder",
+  "version": "1.0.0",
+  "description": "Web animation recorder supporting frame rate control and audio recording based on puppeter",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vinlic/puppeteer-video-recorder.git"
+  },
+  "keywords": [
+    "puppeteer",
+    "recorder",
+    "video"
+  ],
+  "author": "Vinlic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vinlic/puppeteer-video-recorder/issues"
+  },
+  "homepage": "https://github.com/Vinlic/puppeteer-video-recorder#readme"
+}
