@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "lodash": "^4.17.21",
     "puppeteer-core": "^13.5.1"
   },
   "name": "puppeteer-video-recorder",
